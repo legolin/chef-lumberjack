@@ -24,3 +24,4 @@ suites:
   attributes:
     lumberjack:
       ssl_certificate: AAAA
+      ssl_ca_certificate_path: "/etc/pki/tls/"
